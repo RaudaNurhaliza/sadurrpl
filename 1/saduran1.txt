@@ -1,0 +1,14 @@
+Nim  : 1811500045
+Nama : Rauda Nurhaliza
+Kelompok : TI6J
+
+hasil saya menyadur :
+1) ada tugas untuk menyadur tiap pertemuan
+2) buat kelompok presentasi sebanyak 3 orang mahasiswa / kelompok
+3) untuk memulainya kita login dulu ke akun github yang sudah ada
+4) selanjutnya buat repository dengan nama sadurrpl
+5) isi description dengan nama berisi saduran matakuliah analisa dan perancangan rpl lalu create repository
+6) lalu klik add file dan pilih create new file
+7) selanjutnya bikin satu folder dengan nama file saduran1.txt
+8) isi file saduran dengan nama nim dll
+9) jika sudah kirim url ke dosen
